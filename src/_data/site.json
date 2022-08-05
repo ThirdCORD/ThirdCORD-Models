@@ -1,10 +1,12 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
+  "baseURL": "https://thirdcordmodels",
+  "author": "thirdCORD Grups",
   "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
+  "title": "ThirdCORD® MODELS Agency",
   "language": "en",
   "social": [
+    { "title": "YouTube",
+      "url": "https://youtube.com/thirdcordtv"
     {
       "title": "Twitter",
       "url": "https://twitter.com/#"
